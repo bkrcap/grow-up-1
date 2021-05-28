@@ -11,9 +11,8 @@ Grow Up
 
 # DEMO
 トップページ(マイページ、ログアウト、目標投稿、約束ページへ遷移)
+![demo](https://gyazo.com/1cb3af81a1a5b8d43ba9e4f53ada467d/raw)
 
-https://gyazo.com/1cb3af81a1a5b8d43ba9e4f53ada467d
-https://i.gyazo.com/1cb3af81a1a5b8d43ba9e4f53ada467d.gif
 
 # 実装予定の内容
 -目標投稿への約束コメント機能
